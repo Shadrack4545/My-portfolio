@@ -432,3 +432,8 @@ article .icon{
     cursor: default;
     height: 3rem;
 }
+
+/* Footer section */
+footer p{
+    text-align: center;
+}
